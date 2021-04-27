@@ -1,0 +1,66 @@
+I might as well say my YouTube channel here, maybe I get something out of this after all.
+https://www.youtube.com/channel/UCYlYCJ52TFsqmZEtADfpjeg <---- lol why not
+
+
+I woke up at 6am wanting to play Gorilla Tag so I plug in my headset to my laptop and start installing some of the new maps
+that have come out recently so I spent nearly 2 and a half hours to make this entire thing that nobody might even see
+so yeah... what am i doing... well it's 25 minutes until I have to go to school now, thanks for reading ig
+
+
+So i dont know if this will work at all, took almost 2 hours so you're welcome for the insane time save.
+
+
+I use Oculus Quest 2, instructions may be different for other VR headsets, I have no experience with anything but the Quest 2.
+
+
+**INSTRUCTIONS MAY BE WRONG PLEASE DM ME IF THEY ARE AND I WILL UPDATE THEM**
+
+
+To Install QuestPatcher
+
+1. Go into the .qmod folder and use the installer for QuestPatcher
+
+2. Install the most recent version of QuestPatcher
+
+3. Do the setup thing
+
+
+To install Gorilla Tag mods
+
+1. Plug in your Quest and allow your PC access to the files of the headset
+
+2. Open QuestPatcher and patch Gorilla Tag
+
+3. Click the button that says browse mods or whatever at the top of the box and go into the "GtagModdedEVERYTHING" folder, go into Mods, and double-click the mod (some mods may not be compatible with other mods, pretty sure rising lava is broken as of now on Quest)
+
+4. Let the mod install itself
+
+
+To put the maps into Gorilla Tag
+
+1. Install MonkeMapLoader (see mod instructions above)
+
+2. Open 2 File Explorer windows (one in the Maps folder, one in the custom maps folder which is in the monkemaploader folder)
+
+3. Highlight all maps and drag them into the custom maps folder
+
+
+To put the hats into Gorilla Tag
+
+1. Install GorillaCosmetics if you haven't already (see mod downloading instructions above)
+
+2. Open 2 File Explorer windows (one in the Hats folder, one in the Hats folder in GorillaCosmetics)
+
+3. Highlight all hats in the Hats folder and drag them into the... GC Hats folder and you're done
+
+
+To put the materials into Gorilla Tag
+
+1. Install GorillaCosmetics if you haven't already (see mod downloading instructions above)
+
+2. Open 2 File Explorer windows (one in the Materials folder, one in the Materials folder in GorillaCosmetics)
+
+3. Highlight all materials and drag them into the GC Materials folder
+
+
+Well, this has been one of the most painful things I have ever done. You're welcome, I saved you an hour and a half of pain.

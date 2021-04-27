@@ -1,0 +1,2 @@
+the "read" text file says the names of the above folders wrong, keeping the folder names as .gmat, .gtmap, and .hat makes the process of updating this whole thing a lot easier.
+
